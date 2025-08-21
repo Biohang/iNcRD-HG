@@ -13,7 +13,7 @@ We propose **iNcRD-HG**, a framework for predicting ncRNA–drug resistance asso
 
 ## Datasets
 
-All datasets are available at: [Zenodo Link](https://zendo.org/records/***)  
+All datasets are available at: [Zenodo Link](https://zenodo.org/records/16919628)  
 
 - **Heterogeneous graph/**: Files for constructing the heterogeneous graph.  
 - **Train-val-test-data/**: Training, validation, and test sub-datasets of ncRNA–drug resistance associations.  
