@@ -7,7 +7,7 @@ This repository contains the source code for our paper "Semantic-Enhanced Hetero
 ## Introduction
 
 Identifying non-coding RNAs (ncRNAs) associated with drug resistance is crucial for understanding drug response mechanisms and discovering new therapeutic targets.  
-We propose **iNcRD-HG**, a framework for predicting ncRNA–drug resistance associations. iNcRD-HG integrates molecular interactions, expression profiles, and drug structures to construct a biologically informative network. Through type-aware message passing and an interpretability module, it captures complex contextual dependencies and uncovers cooperative ncRNA roles in drug resistance.
+We propose **iNcRD-HG**, a framework for predicting ncRNA–drug resistance associations. iNcRD-HG integrates molecular interactions, expression profiles, and drug structures to construct a biologically informative network. Through relation-type-aware message passing and an interpretability module, it captures complex contextual dependencies and uncovers cooperative ncRNA roles in drug resistance.
 
 ---
 
