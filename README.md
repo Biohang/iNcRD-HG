@@ -1,6 +1,6 @@
 ## iNcRD-HG
 
-This repository contains the source code for our paper "Context-Enriched Heterogeneous Graph Learning for Identifying ncRNAs Associated with Drug Resistance". It includes the implementation of the proposed predictor, along with datasets and tutorials to help users reproduce and extend our work.
+This repository contains the source code for our paper "Semantic-Enhanced Heterogeneous Graph Learning for Identifying ncRNAs Associated with Drug Resistance". It includes the implementation of the proposed predictor, along with datasets and tutorials to help users reproduce and extend our work.
 
 ---
 
